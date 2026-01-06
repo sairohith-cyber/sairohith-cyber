@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**sairohith-cyber/sairohith-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**I am a beginner in cybersecurity, currently learning
+the fundamentals of security, networking, and Linux.
+This GitHub is my learning journal where I document
+what I study and practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning
+- Linux fundamentals
+- Computer networking basics
+- Introduction to cybersecurity
+- Security concepts (CIA triad, threats, attacks)
+
+Tools (Beginner Level)
+- Linux (Ubuntu / Kali)
+- Git & GitHub
+- Nmap (basic)
+- Wireshark (basic)
+
+Goal
+To build a strong foundation and move towards
+SOC / Blue Team / Pentesting roles in the future.**
