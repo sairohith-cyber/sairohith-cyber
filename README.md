@@ -21,3 +21,7 @@ Tools (Beginner Level)
 Goal
 To build a strong foundation and move towards
 SOC / Blue Team / Pentesting roles in the future.
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/sairohith-harinath-25846a245/
+- Email: sairohith250704@gmail.com
